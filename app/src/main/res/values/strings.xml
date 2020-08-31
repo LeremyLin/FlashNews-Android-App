@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TinNews</string>
+    <string name="title_home">Home</string>
+    <string name="title_save">Save</string>
+    <string name="title_search">Search</string>
+    <string name="title_details">Details</string>
+
+</resources>
